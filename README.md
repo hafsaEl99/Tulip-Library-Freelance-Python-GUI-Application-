@@ -49,13 +49,6 @@ pip install pillow
 Run the application:
 python TulipLibrary.py
 
-Project Structure
-
-Tulip-Library-Freelance-Python-GUI-Application-/
-│
-├── TulipLibrary.py (Main application code)
-├── logolibrary.png (Optional logo image)
-└── README.md (Project documentation)
 
 Example Use
 
